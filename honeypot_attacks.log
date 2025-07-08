@@ -1,0 +1,54 @@
+[2025-07-07 03:05:31] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-07 04:20:46] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-07 04:22:49] Suspicious Activity Detected - IP: 87.216.159.127 - Details: {"field":"<script>document.write('<img src=x onerror=alert(1)>')<\/script>","password":"YukTYwo1AkhG"}
+[2025-07-07 04:22:53] Honeypot Login Attempt - IP: 87.216.159.127 - Details: Email: 
+[2025-07-07 04:22:59] Suspicious Activity Detected - IP: 141.146.61.164 - Details: {"honeypot":"<iframe srcdoc='<script>alert(1)<\/script>'>","password":"ehTRd7dbqH45"}
+[2025-07-07 04:23:01] Honeypot Login Attempt - IP: 141.146.61.164 - Details: Email: 
+[2025-07-07 04:23:06] Honeypot Login Attempt - IP: 77.81.37.207 - Details: Email: 
+[2025-07-07 04:23:11] Suspicious Activity Detected - IP: 49.148.191.115 - Details: {"submit":"admin'--","password":"AtRkC4TVUxch"}
+[2025-07-07 04:23:14] Honeypot Login Attempt - IP: 49.148.191.115 - Details: Email: 
+[2025-07-07 04:23:20] Suspicious Activity Detected - IP: 107.150.174.8 - Details: {"field":"' OR EXISTS(SELECT * FROM information_schema.tables) AND '1'='1","password":"cV9rI2DLK3x2"}
+[2025-07-07 04:23:23] Honeypot Login Attempt - IP: 107.150.174.8 - Details: Email: 
+[2025-07-07 04:44:25] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-07 12:32:29] Suspicious Activity Detected - IP: ::1 - Details: {"email":"test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),1,1)='a' THEN pg_sleep(2) ELSE 0 END)--","password":"test"}
+[2025-07-07 12:32:34] Honeypot Login Attempt - IP: ::1 - Details: Email: test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),1,1)='a' THEN pg_sleep(2) ELSE 0 END)--
+[2025-07-07 12:32:38] Suspicious Activity Detected - IP: ::1 - Details: {"email":"test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),2,1)='a' THEN pg_sleep(2) ELSE 0 END)--","password":"test"}
+[2025-07-07 12:32:43] Honeypot Login Attempt - IP: ::1 - Details: Email: test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),2,1)='a' THEN pg_sleep(2) ELSE 0 END)--
+[2025-07-07 12:32:46] Suspicious Activity Detected - IP: ::1 - Details: {"email":"test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),3,1)='a' THEN pg_sleep(2) ELSE 0 END)--","password":"test"}
+[2025-07-07 12:32:49] Honeypot Login Attempt - IP: ::1 - Details: Email: test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),3,1)='a' THEN pg_sleep(2) ELSE 0 END)--
+[2025-07-07 12:32:53] Suspicious Activity Detected - IP: ::1 - Details: {"email":"test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),4,1)='a' THEN pg_sleep(2) ELSE 0 END)--","password":"test"}
+[2025-07-07 12:32:59] Honeypot Login Attempt - IP: ::1 - Details: Email: test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),4,1)='a' THEN pg_sleep(2) ELSE 0 END)--
+[2025-07-07 12:33:02] Suspicious Activity Detected - IP: ::1 - Details: {"email":"test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),5,1)='a' THEN pg_sleep(2) ELSE 0 END)--","password":"test"}
+[2025-07-07 12:33:05] Honeypot Login Attempt - IP: ::1 - Details: Email: test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),5,1)='a' THEN pg_sleep(2) ELSE 0 END)--
+[2025-07-07 12:33:07] Suspicious Activity Detected - IP: ::1 - Details: {"email":"test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),6,1)='a' THEN pg_sleep(2) ELSE 0 END)--","password":"test"}
+[2025-07-07 12:33:09] Honeypot Login Attempt - IP: ::1 - Details: Email: test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),6,1)='a' THEN pg_sleep(2) ELSE 0 END)--
+[2025-07-07 12:33:12] Suspicious Activity Detected - IP: ::1 - Details: {"email":"test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),7,1)='a' THEN pg_sleep(2) ELSE 0 END)--","password":"test"}
+[2025-07-07 12:33:14] Honeypot Login Attempt - IP: ::1 - Details: Email: test@test.com'||(SELECT CASE WHEN SUBSTR(DATABASE(),7,1)='a' THEN pg_sleep(2) ELSE 0 END)--
+[2025-07-07 14:26:06] Attack detected - IP: 117.50.232.190 - Technique: SQL Injection Attempt - Details: Email: admin' AND 1=1#, Password: legit_password
+[2025-07-07 14:26:07] Attack detected - IP: ::1 - Technique: Login Attempt - Details: Email: , Password: 
+[2025-07-07 14:26:50] Attack detected - IP: 66.94.223.189 - Technique: SQL Injection Attempt - Details: Email: admin' AND 1=1#, Password: legit_password
+[2025-07-07 14:26:51] Attack detected - IP: ::1 - Technique: Login Attempt - Details: Email: , Password: 
+[2025-07-07 14:27:23] Attack detected - IP: 136.182.117.26 - Technique: SQL Injection Attempt - Details: Email: ito' AND 1=1#, Password: legit_password
+[2025-07-07 14:27:24] Attack detected - IP: ::1 - Technique: Brute Force Attempt - Details: Too many login attempts
+[2025-07-07 14:27:26] Attack detected - IP: ::1 - Technique: Brute Force Attempt - Details: Too many login attempts
+[2025-07-07 14:27:54] Suspicious Activity Detected - IP: 36.43.237.232 - Details: {"email":"ito' AND 1=1#","password":"legit_password"}
+[2025-07-07 14:27:56] Honeypot Login Attempt - IP: 36.43.237.232 - Details: Email: ito' AND 1=1#
+[2025-07-07 14:28:22] Suspicious Activity Detected - IP: 173.207.47.45 - Details: {"email":"admin' AND 1=1#","password":"legit_password"}
+[2025-07-07 14:28:24] Honeypot Login Attempt - IP: 173.207.47.45 - Details: Email: admin' AND 1=1#
+[2025-07-07 14:28:26] Suspicious Activity Detected - IP: ::1 - Details: {"email":["valid@email.com","attack'--"],"password":"x"}
+[2025-07-07 14:28:28] Honeypot Login Attempt - IP: ::1 - Details: Email: Array
+[2025-07-07 14:28:31] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-07 14:28:32] Honeypot Login Attempt - IP: ::1 - Details: Email: 
+[2025-07-08 04:54:03] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 04:54:42] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 04:54:56] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 04:58:49] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 04:59:32] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 04:59:45] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 05:04:14] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 05:04:25] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 05:04:28] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 05:05:57] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 05:07:38] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 05:07:45] Suspicious Activity Detected - IP: ::1 - Details: []
+[2025-07-08 05:07:57] Suspicious Activity Detected - IP: ::1 - Details: []

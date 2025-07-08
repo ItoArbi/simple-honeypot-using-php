@@ -1,0 +1,72 @@
+[2025-07-04 14:31:13] XSS Attempt - IP: 229.216.152.252 - Details: <div onerror="alert(9)">
+[2025-07-04 14:31:17] SQL Injection Attempt - IP: 172.157.202.113 - Details: Nih' UNION SELECT 1,2,3,4,5 -- 
+[2025-07-04 14:31:22] SQL Injection Attempt - IP: 80.191.237.188 - Details: admin' iTe OR 8=3 -- FT
+[2025-07-04 14:31:27] SQL Injection Attempt - IP: 67.132.97.148 - Details: admin' MGv OR 5=5 -- Kf
+[2025-07-04 14:31:33] SQL Injection Attempt - IP: ::1 - Details: UpE' UNION SELECT 1,2,3,4 -- 
+[2025-07-04 14:31:38] SQL Injection Attempt - IP: 122.186.195.100 - Details: admin' WAw OR 7=8 -- Rn
+[2025-07-04 14:31:41] XSS Attempt - IP: 19.50.194.172 - Details: <a onerror="alert(5)">
+[2025-07-04 14:31:48] SQL Injection Attempt - IP: 129.136.89.246 - Details: admin' FQJ OR 9=4 -- PY
+[2025-07-04 14:31:53] SQL Injection Attempt - IP: 3.136.182.117 - Details: ciG' UNION SELECT 1 -- 
+[2025-07-04 14:31:57] SQL Injection Attempt - IP: 228.191.11.70 - Details: admin' kdp OR 3=6 -- RF
+[2025-07-04 14:32:02] SQL Injection Attempt - IP: 232.4.232.255 - Details: Qwg' UNION SELECT 1,2,3,4 -- 
+[2025-07-04 14:32:06] XSS Attempt - IP: 171.128.80.151 - Details: <img onerror="alert(7)">
+[2025-07-04 14:32:59] SQL Injection Attempt - IP: 219.207.25.25 - Details: admin' DHd OR 8=5 -- QV
+[2025-07-04 14:33:03] SQL Injection Attempt - IP: 1.69.150.104 - Details: admin' uEt OR 3=2 -- zd
+[2025-07-04 14:33:07] SQL Injection Attempt - IP: 227.225.246.186 - Details: GSQ' UNION SELECT 1 -- 
+[2025-07-04 14:33:13] XSS Attempt - IP: 14.103.83.25 - Details: <div onerror="alert(3)">
+[2025-07-04 14:33:16] SQL Injection Attempt - IP: 94.252.40.162 - Details: admin' AMQ OR 8=7 -- cM
+[2025-07-04 14:33:23] XSS Attempt - IP: 27.34.65.49 - Details: <a onload="alert(4)">
+[2025-07-04 14:33:27] SQL Injection Attempt - IP: 80.117.53.106 - Details: eFj' UNION SELECT 1,2 -- 
+[2025-07-04 14:33:31] SQL Injection Attempt - IP: 142.250.208.78 - Details: wTQ' UNION SELECT 1,2,3 -- 
+[2025-07-04 14:33:36] SQL Injection Attempt - IP: 15.11.106.86 - Details: admin' nQp OR 6=3 -- Ps
+[2025-07-04 14:33:40] XSS Attempt - IP: 43.221.212.40 - Details: <div onload="alert(3)">
+[2025-07-04 14:33:45] SQL Injection Attempt - IP: 61.208.157.123 - Details: admin' Iqf OR 7=3 -- ow
+[2025-07-04 14:33:52] SQL Injection Attempt - IP: 135.254.195.199 - Details: admin' Uez OR 2=6 -- qr
+[2025-07-04 14:33:55] SQL Injection Attempt - IP: 229.103.29.179 - Details: admin' mmi OR 5=2 -- Ql
+[2025-07-04 14:33:58] SQL Injection Attempt - IP: 67.252.241.193 - Details: sMg' UNION SELECT 1,2,3 -- 
+[2025-07-04 14:34:01] SQL Injection Attempt - IP: 27.226.26.179 - Details: gOh' UNION SELECT 1 -- 
+[2025-07-04 14:34:05] SQL Injection Attempt - IP: 24.234.97.224 - Details: admin' DoZ OR 3=8 -- ea
+[2025-07-04 14:34:11] XSS Attempt - IP: 106.208.82.231 - Details: <img onerror="alert(5)">
+[2025-07-04 14:34:19] SQL Injection Attempt - IP: 40.111.87.129 - Details: FWL' UNION SELECT 1,2,3 -- 
+[2025-07-04 14:34:29] SQL Injection Attempt - IP: 80.2.248.169 - Details: admin' Cot OR 3=3 -- Bs
+[2025-07-04 14:34:36] SQL Injection Attempt - IP: 166.190.109.11 - Details: admin' XkW OR 2=9 -- Fs
+[2025-07-04 14:36:10] SQL Injection Attempt - IP: 171.153.44.122 - Details: admin' iWy OR 8=1 -- jO
+[2025-07-04 14:36:16] SQL Injection Attempt - IP: 150.228.58.89 - Details: ngr' UNION SELECT 1 -- 
+[2025-07-04 14:36:25] XSS Attempt - IP: 109.126.246.198 - Details: <img onerror="alert(8)">
+[2025-07-04 14:36:34] XSS Attempt - IP: 165.197.1.23 - Details: <div onerror="alert(5)">
+[2025-07-04 14:36:40] SQL Injection Attempt - IP: 195.53.62.204 - Details: admin' tIg OR 5=5 -- Xi
+[2025-07-04 14:36:47] SQL Injection Attempt - IP: 98.230.74.83 - Details: ujS' UNION SELECT 1,2,3,4 -- 
+[2025-07-04 14:36:53] SQL Injection Attempt - IP: 187.163.61.173 - Details: admin' qYe OR 5=4 -- JP
+[2025-07-04 14:37:01] SQL Injection Attempt - IP: 69.85.140.62 - Details: mMo' UNION SELECT 1,2,3,4 -- 
+[2025-07-04 14:37:10] XSS Attempt - IP: 150.203.103.65 - Details: <img onerror="alert(7)">
+[2025-07-04 14:37:16] SQL Injection Attempt - IP: 203.118.9.250 - Details: fEK' UNION SELECT 1 -- 
+[2025-07-04 14:37:22] XSS Attempt - IP: 39.151.35.160 - Details: <div onerror="alert(6)">
+[2025-07-04 14:37:30] SQL Injection Attempt - IP: 150.215.78.15 - Details: admin' JWA OR 9=5 -- Yx
+[2025-07-04 14:37:36] SQL Injection Attempt - IP: 187.19.200.240 - Details: admin' GaV OR 8=4 -- HO
+[2025-07-04 14:37:43] SQL Injection Attempt - IP: 70.170.253.71 - Details: admin' HpT OR 5=1 -- JU
+[2025-07-04 14:37:51] SQL Injection Attempt - IP: 74.50.232.176 - Details: HPH' UNION SELECT 1,2,3,4 -- 
+[2025-07-04 14:37:59] SQL Injection Attempt - IP: 53.177.244.187 - Details: BLx' UNION SELECT 1 -- 
+[2025-07-04 14:38:07] SQL Injection Attempt - IP: 238.226.96.17 - Details: KrR' UNION SELECT 1 -- 
+[2025-07-04 14:38:14] SQL Injection Attempt - IP: 208.71.98.179 - Details: CgW' UNION SELECT 1,2 -- 
+[2025-07-04 14:38:19] SQL Injection Attempt - IP: 47.9.101.183 - Details: KAo' UNION SELECT 1 -- 
+[2025-07-04 14:38:25] XSS Attempt - IP: 194.76.67.136 - Details: <img onerror="alert(7)">
+[2025-07-04 14:38:47] XSS Attempt - IP: 20.35.248.31 - Details: <a onload="alert(2)">
+[2025-07-04 14:38:56] XSS Attempt - IP: 177.168.184.80 - Details: <img onload="alert(8)">
+[2025-07-04 14:39:04] XSS Attempt - IP: 104.161.44.14 - Details: <img onerror="alert(1)">
+[2025-07-04 14:39:12] SQL Injection Attempt - IP: 96.213.35.6 - Details: Ujq' UNION SELECT 1,2,3 -- 
+[2025-07-04 14:39:20] SQL Injection Attempt - IP: ::1 - Details: admin' FFK OR 2=6 -- VJ
+[2025-07-04 14:39:29] SQL Injection Attempt - IP: 36.204.112.128 - Details: admin' yyv OR 6=3 -- zc
+[2025-07-04 14:39:39] SQL Injection Attempt - IP: 198.15.240.135 - Details: admin' Knp OR 8=7 -- Yn
+[2025-07-04 14:39:46] SQL Injection Attempt - IP: 232.218.205.234 - Details: admin' rBB OR 2=7 -- ZO
+[2025-07-04 14:39:52] XSS Attempt - IP: 28.250.39.53 - Details: <a onerror="alert(7)">
+[2025-07-04 14:39:58] XSS Attempt - IP: 116.237.20.226 - Details: <img onload="alert(2)">
+[2025-07-04 14:40:07] SQL Injection Attempt - IP: 186.189.86.107 - Details: admin' wjo OR 5=3 -- wL
+[2025-07-04 14:40:15] SQL Injection Attempt - IP: 195.70.128.215 - Details: ssi' UNION SELECT 1,2,3 -- 
+[2025-07-04 14:40:22] SQL Injection Attempt - IP: 101.243.98.54 - Details: SVQ' UNION SELECT 1,2 -- 
+[2025-07-04 14:40:28] SQL Injection Attempt - IP: 101.151.235.38 - Details: Oze' UNION SELECT 1 -- 
+[2025-07-04 14:40:34] SQL Injection Attempt - IP: 70.59.25.43 - Details: eaw' UNION SELECT 1 -- 
+[2025-07-04 14:40:42] XSS Attempt - IP: 66.221.230.212 - Details: <div onerror="alert(3)">
+[2025-07-04 14:40:51] XSS Attempt - IP: 207.186.143.204 - Details: <a onerror="alert(6)">
+[2025-07-04 14:40:57] SQL Injection Attempt - IP: 117.74.21.50 - Details: admin' DPI OR 1=7 -- Rj
+[2025-07-04 14:41:04] XSS Attempt - IP: 138.58.249.162 - Details: <a onload="alert(5)">
+[2025-07-04 14:41:12] SQL Injection Attempt - IP: 33.115.59.24 - Details: bAd' UNION SELECT 1,2 -- 
